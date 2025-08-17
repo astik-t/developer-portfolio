@@ -1,23 +1,23 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
-        course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
+        institution: 'Scholara Academy Roorkee',
+        course: 'Secondary Education',
+        startYear: '2020',
+        endYear: '2022'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
+        institution: 'Greenway Modern School',
+        course: 'Senior Secondary Education',
+        startYear: '2022',
+        endYear: '2024'
     },
     {
         id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
-        startYear: '2019',
+        institution: 'Graphic Era University',
+        course: 'Bachlor of Technology (CS)',
+        startYear: '2025',
         endYear: 'Present'
     },
 ]
