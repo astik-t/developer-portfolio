@@ -17,7 +17,7 @@ export const projectsData = [
         code: 'https://drive.google.com/file/d/1ph0UrnZzSM3ZWRI6ZxkZgS7ajAGu_naM/view?usp=drivesdk',
         demo: '',
         image: one
-        Documentation: 
+        Document: 
 'https://www.canva.com/design/DAF6uDL8qeM/v9KKv_3souetRS0pUbLydg/watch?utm_content=DAF6uDL8qeM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h41bbe4300c'
     }
 ]
