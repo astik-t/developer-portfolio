@@ -15,7 +15,12 @@ export const projectsData = [
         projectDesc: 'This project aims to build a school management system that consolidates all information of a school',
         tags: ['SQL', 'Python', 'DBMS'],
         code: 'https://drive.google.com/file/d/1ph0UrnZzSM3ZWRI6ZxkZgS7ajAGu_naM/view?usp=drivesdk',
+<<<<<<< HEAD
         demo: 'https://www.canva.com/design/DAF6uDL8qeM/v9KKv_3souetRS0pUbLydg/watch?utm_content=DAF6uDL8qeM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h41bbe4300c',
+=======
+'https://www.canva.com/design/DAF6uDL8qeM/v9KKv_3souetRS0pUbLydg/watch?utm_content=DAF6uDL8qeM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h41bbe4300c',
+        demo: '',
+>>>>>>> 4c7f3f1077db72669f98b44b00d1c7c2a4a37157
         image: one
     }
 ]
