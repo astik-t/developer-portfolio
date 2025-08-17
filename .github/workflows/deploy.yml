@@ -1,0 +1,19 @@
+name: Deploy Portfolio
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+      - run: npm install
+      - run: npm run build
+      - run: npx gh-pages -d build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
