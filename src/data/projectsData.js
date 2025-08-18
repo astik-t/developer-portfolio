@@ -5,8 +5,8 @@ export const projectsData = [
         projectName: 'School Management System',
         projectDesc: 'This project aims to build a school management system that consolidates all information of a school',
         tags: ['SQL', 'Python', 'DBMS'],
-        code: 'https://drive.google.com/file/d/1ph0UrnZzSM3ZWRI6ZxkZgS7ajAGu_naM/view?usp=drivesdk',
-        demo: '',
+        code: 'https://github.com/astik-t/School-Management-System---SQL-',
+        demo: 'https://github.com/astik-t/School-Management-System---SQL-',
 
         image: one
     }
