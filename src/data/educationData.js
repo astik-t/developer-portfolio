@@ -1,7 +1,7 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Scholara Academy Roorkee',
+        institution: 'Scholars Academy Roorkee',
         course: 'Secondary Education',
         startYear: '2020',
         endYear: '2022'
